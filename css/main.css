@@ -181,3 +181,30 @@ body {
     width: 100%;
     color: #aaaaaa;
 }
+
+.our-siteee {
+    padding: 5px 20px;
+    color: #FBB244;
+    text-transform: uppercase;
+    background-color: rgba(251, 178, 68, 0.2);
+    border-radius: 30px;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+}
+
+.agency {
+    color: #081158;
+    font-weight: bolder;
+}
+
+.ocean {
+    color: #aaaaaa;
+    font-size: 15px;
+}
+
+.i {
+    color: #aaaaaa;
+    font-size: 15px;
+}
