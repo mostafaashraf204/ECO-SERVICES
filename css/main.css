@@ -303,3 +303,80 @@ body {
     font-size: 15px !important;
     margin: -14% 0 0 20% !important;
 }
+
+.footer {
+    height: 53vh;
+}
+
+.about {
+    width: 20%;
+    margin: 8% 0 0 18%;
+}
+
+.about h5 {
+    margin-top: -2%;
+    font-size: 15px;
+    color: #081158;
+    font-weight: bold;
+}
+
+.about p {
+    font-size: 14px;
+    color: #aaaaaa;
+}
+
+.about i {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.pages {
+    margin: -8% 0 0 46%;
+}
+
+.pages h6 {
+    font-size: 15px;
+    color: #081158;
+    font-weight: bold;
+}
+
+.pages a {
+    text-decoration: none;
+    color: #aaaaaa;
+    font-size: 15px;
+}
+
+.Resources {
+    margin: -5% 0 0 57%;
+}
+
+.Resources h6 {
+    font-size: 15px;
+    color: #081158;
+    font-weight: bold;
+}
+
+.Resources a {
+    text-decoration: none;
+    color: #aaaaaa;
+    font-size: 15px;
+}
+
+.Contact {
+    margin: -5% 0 0 67%;
+}
+
+.Contact h6 {
+    font-size: 15px;
+    color: #081158;
+    font-weight: bold;
+}
+
+.Contact a {
+    text-decoration: none;
+    color: #aaaaaa;
+    font-size: 15px;
+}
