@@ -1183,6 +1183,10 @@ progress {
         flex: 0 0 auto;
         width: 41.66666667%;
     }
+    .col-md-5-5 {
+        flex: 0 0 auto;
+        width: 40%;
+    }
     .col-md-6 {
         flex: 0 0 auto;
         width: 50%;
@@ -7900,6 +7904,10 @@ fieldset:disabled .btn {
     margin-top: 9rem !important;
 }
 
+.mt-8 {
+    margin-top: 11rem !important;
+}
+
 .mt-auto {
     margin-top: auto !important;
 }
@@ -7982,6 +7990,10 @@ fieldset:disabled .btn {
 
 .ms-5 {
     margin-left: 3rem !important;
+}
+
+.ms-6 {
+    margin-left: 5rem !important;
 }
 
 .ms-auto {

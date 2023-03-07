@@ -208,3 +208,46 @@ body {
     color: #aaaaaa;
     font-size: 15px;
 }
+
+.our-siteeee {
+    margin-left: 44%;
+    padding: 5px 20px;
+    color: #FBB244;
+    text-transform: uppercase;
+    background-color: rgba(251, 178, 68, 0.2);
+    border-radius: 30px;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+}
+
+.shield {
+    border: 1px solid #dadadab2;
+}
+
+.iconn {
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+    background-color: #c48b3673;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.posstion {
+    margin: -22% 0 0 25%;
+}
+
+.posstion h4 {
+    color: black;
+    font-weight: bolder;
+}
+
+.posstion p {
+    color: #aaaaaa;
+    font-size: 13px;
+}
