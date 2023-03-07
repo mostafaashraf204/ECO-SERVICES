@@ -251,3 +251,55 @@ body {
     color: #aaaaaa;
     font-size: 13px;
 }
+
+.Testimonials {
+    width: 100%;
+    height: 60vh;
+    background-color: #f8f9fa !important;
+}
+
+.top {
+    margin-left: 47%;
+}
+
+.Testimonials h1 {
+    color: #081158;
+    font-weight: bolder;
+}
+
+.Testimonials p {
+    margin: auto;
+    color: #aaaaaa;
+    font-size: 14px;
+    width: 47%;
+}
+
+.item {
+    margin: auto;
+    width: 470px;
+    height: 275px;
+    border: 1px solid #e7e7e7;
+}
+
+.item p {
+    width: 80%;
+    padding-top: 4%;
+    margin-left: 6%;
+    font-size: 18px;
+}
+
+.item img {
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin: 10% 0 0 6%;
+}
+
+.info {
+    font-size: 15px !important;
+    margin: -14% 0 0 20% !important;
+}
