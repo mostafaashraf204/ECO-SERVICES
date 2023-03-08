@@ -380,3 +380,66 @@ body {
     color: #aaaaaa;
     font-size: 15px;
 }
+
+.about-postion {
+    margin-left: 47%;
+}
+
+.about-h6 {
+    color: #081158;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.about-p {
+    font-size: 14px;
+    color: #aaaaaa;
+}
+
+.Stats {
+    width: 100%;
+    height: 40vh;
+    background-color: #f8f9fa;
+}
+
+.Statss {
+    margin: 0 0 0 48%;
+    padding: 5px 20px;
+    color: #FBB244;
+    text-transform: uppercase;
+    background-color: rgba(251, 178, 68, 0.2);
+    border-radius: 30px;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+}
+
+.statsss {
+    text-align: center;
+    margin: 0 0 0 15%;
+    margin-top: 1%;
+    width: 70%;
+    font-weight: bolder;
+    color: #081158;
+}
+
+.Stats p {
+    margin-top: 2%;
+    margin: auto;
+    width: 42%;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 17vh;
+}
+
+.value {
+    font-size: 50px;
+    display: block;
+    font-weight: bold;
+    color: black;
+}
