@@ -447,3 +447,19 @@ body {
 .coloor {
     background-color: white !important;
 }
+
+.faq {
+    width: 100%;
+    height: 55vh;
+    background-color: #f8f9fa;
+}
+
+.faq p {
+    margin-top: 2%;
+    margin: auto;
+    width: 43%;
+}
+
+.Accordion {
+    margin: auto;
+}
