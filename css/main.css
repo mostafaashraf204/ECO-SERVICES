@@ -443,3 +443,7 @@ body {
     font-weight: bold;
     color: black;
 }
+
+.coloor {
+    background-color: white !important;
+}
